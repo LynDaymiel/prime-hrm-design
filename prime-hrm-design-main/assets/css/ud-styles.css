@@ -25,6 +25,7 @@ body {
   font-style: normal;
   color: var(--body-color);
   overflow-x: hidden;
+  overflow-y: scroll;
 }
 
 * {
@@ -1565,8 +1566,6 @@ p {
   color: #dddddd;
   margin-right: 20px;
 }
-
-
 
 .ud-widget .ud-widget-title {
   font-weight: 600;
